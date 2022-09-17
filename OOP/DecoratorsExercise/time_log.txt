@@ -1,0 +1,5 @@
+loop was executed with params (1, 10000000). Elapsed time: 0.7358207702636719
+loop was executed with params (1, 10000000). Elapsed time: 0.7120811939239502
+loop was executed with params (1, 10000000). Elapsed time: 0.7466080188751221
+loop was executed with params (1, 10000000). Elapsed time: 0.721869945526123
+loop was executed with params (1, 10000000). Elapsed time: 0.748445987701416

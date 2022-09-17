@@ -1,0 +1,6 @@
+Function sum_func was add called. Result: 5
+Function func was add called. Result: 6
+Function sum_func was add called. Result: 5
+Function func was add called. Result: 6
+Function add was add called. Result: 4
+Function mult was add called. Result: 24
